@@ -1,0 +1,90 @@
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Home isn't where you're from, it's where you find light when all grows dark."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "There is no greater plague to an introvert than the extrovert."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Friendships take minutes to make, moments to break, years to repair."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "I will die. You will die. We will all die and the universe will carry on without care. All that we have is that shout into the wind - how we live. How we go. And how we stand before we fall."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Liars make the best promises."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Wise men read books about history. Strong men write them."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "It's not victory that makes a man. It's his defeats."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "He always thinks because I'm reading, I'm not doing anything. There is no greater plague to an introvert than the extroverted."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "You're a sinister little shit, aren't you?"
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Hic sunt leones. Here be lions."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Rise so high, in mud you lie."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "For seven hundred years, my people have been enslaved without voice, without hope. Now I am their sword. And I do not forgive. I do not forget. So let him lead me onto his shuttle. Let him think he owns me. Let him welcome me into his house, so I might burn it down."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "They say a kingdom divided against itself cannot stand. They made no mention of the heart."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "We are not our station in life. We are us - the sum of what we've done, what we want to do, and the people who we keep close."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "Everyone's honest till they're caught in a lie."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "You meet a man, you know him. You meet a woman, she knows you."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "A fool pulls the leaves. A brute chops the trunk. A sage digs the roots."
+}
+{
+  "title": "Golden Son",
+  "author": "Pierce Brown",
+  "quote": "If you're a fox, play the hare. If you're the hare, play the fox."
+}
